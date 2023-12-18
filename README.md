@@ -1,0 +1,2 @@
+# ARM-FITkit3: Game SNAKE
+The implementation of a simple game SNAKE on the ARM FITkit3 platform using two matrix displays of size 8x8. The game is controlled using buttons on the platform, which are used to navigate the snake (up, right, down, left) and to restart the game. The game is implemented in the main.c file in the C language. The project is written in the Kinetis Design Studio (KDS IDE) development environment.
